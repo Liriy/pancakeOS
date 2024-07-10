@@ -1,5 +1,5 @@
 NAME="PancakeOS"
-PRETTY_NAME="PancakeOS | postmarketOS"
+PRETTY_NAME="PancakeOS"
 ID=postmarketos
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"

@@ -1,0 +1,5 @@
+echo // REMOVING EXISTING LABELLING // YOU HAD TIME TO BACKUP IT!
+rm -rf /etc/os-release
+echo // INSTALLING PANCAKEOS // real
+cp -r labelling.realme /etc/os-release
+
